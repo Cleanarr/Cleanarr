@@ -6,6 +6,7 @@ namespace cleanerr.data.Models
     {
         public int    UserId          { get; set; }
         public string Name            { get; set; }
+        public string EMailAddress     { get; set; }
         public int    MediaProviderId { get; set; }
 
         public MediaProvider                   MediaProvider       { get; set; }

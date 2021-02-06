@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cleanerr", "Cleanerr\Cleane
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cleanerr.data", "cleanerr.data\cleanerr.data.csproj", "{B565790C-0F03-43CF-8D13-B106827334C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cleanerr.PluginBase", "Cleanerr.PluginBase\Cleanerr.PluginBase.csproj", "{106F210D-8108-4E63-925D-0F102A7B8A86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cleanerr.PluginBase", "Cleanerr.PluginBase\Cleanerr.PluginBase.csproj", "{106F210D-8108-4E63-925D-0F102A7B8A86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
