@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Cleanarr.PluginBase</AssemblyName>
+    <RootNamespace>Cleanarr.PluginBase</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\HistoryProvider\" />
+    <Folder Include="Models\RequestProvider\" />
+  </ItemGroup>
+
+</Project>
