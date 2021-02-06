@@ -1,4 +1,4 @@
-﻿namespace cleanerr.data.Models
+﻿namespace cleanerr.Data.Models
 {
     public class EMailRespond
     {

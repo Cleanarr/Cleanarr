@@ -18,7 +18,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\cleanerr.data\cleanerr.data.csproj" />
+      <ProjectReference Include="..\cleanerr.data\cleanerr.Data.csproj" />
     </ItemGroup>
 
 </Project>

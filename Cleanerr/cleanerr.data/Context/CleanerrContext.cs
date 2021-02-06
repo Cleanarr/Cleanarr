@@ -1,7 +1,7 @@
-﻿using cleanerr.data.Models;
+﻿using cleanerr.Data.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace cleanerr.data.Context
+namespace cleanerr.Data.Context
 {
     public class CleanerrContext : DbContext
     {

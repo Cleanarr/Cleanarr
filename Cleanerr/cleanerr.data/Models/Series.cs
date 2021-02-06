@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace cleanerr.data.Models
+namespace cleanerr.Data.Models
 {
     public class Series
     {

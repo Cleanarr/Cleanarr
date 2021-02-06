@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cleanerr", "Cleanerr\Cleanerr.csproj", "{67E51862-9B88-40A9-B5C8-E7D829BF002E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cleanerr.data", "cleanerr.data\cleanerr.data.csproj", "{B565790C-0F03-43CF-8D13-B106827334C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cleanerr.Data", "cleanerr.data\cleanerr.Data.csproj", "{B565790C-0F03-43CF-8D13-B106827334C5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cleanerr.PluginBase", "Cleanerr.PluginBase\Cleanerr.PluginBase.csproj", "{106F210D-8108-4E63-925D-0F102A7B8A86}"
 EndProject
