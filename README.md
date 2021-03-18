@@ -1,7 +1,7 @@
 # Cleanarr
 ## Automatic cleaner tool for Plex (and others soon...).
 
-**Cleanerr** will automatically delete movies and series-episodes from your Media Server.
+**Cleanarr** will automatically delete movies and series-episodes from your Media Server.
 
 It allows a user to set conditions that must be met in order 
 for a movie or series-episode to get deleted.
@@ -13,7 +13,7 @@ The software will consist of 3 components.
 -  Request Provider
 
 
-Cleaner uses the providers to determine whether a movie or series-episode can be deleted.
+Cleanarr uses the providers to determine whether a movie or series-episode can be deleted.
 You will have extended possibilities to create variations of conditions to have different circumstances for media te get deleted.
 
 An example setup of conditions can be:
