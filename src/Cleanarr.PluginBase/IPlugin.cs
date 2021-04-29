@@ -16,5 +16,6 @@ namespace Cleanarr.PluginBase
         public void Intialize();
         public void Load();
         public void Unload();
+        public void Update();
     }
 }
