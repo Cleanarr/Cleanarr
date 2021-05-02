@@ -6,9 +6,4 @@
     <RootNamespace>Cleanarr.PluginBase</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Models\HistoryProvider\" />
-    <Folder Include="Models\RequestProvider\" />
-  </ItemGroup>
-
 </Project>

@@ -1,7 +1,7 @@
 ﻿
 namespace Cleanarr.PluginBase.Models.MediaProvider
 {
-    public class User
+    public sealed class User
     {
         public string UserId { get; set; }
         public string UserName { get; set; }
