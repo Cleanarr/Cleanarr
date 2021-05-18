@@ -1,6 +1,9 @@
 # Cleanarr
 ## Automatic cleaner tool for Plex (and others soon...).
 
+### _Project is in development!_
+<br/>
+
 **Cleanarr** will automatically delete movies and series-episodes from your Media Server.
 
 It allows a user to set conditions that must be met in order 
@@ -22,11 +25,12 @@ Watch conditions | Time-Out conditions | Mail condition
 ------------ | ------------- | -------------
 The main user must have seen it | No Time-Out | No Mail
 Everybody who have requested it must have seen it | 90 days Time-Out | Send Mail, send reminder mail 3 times
+Everybody who started watching a show (1+ episode) / movie (10 min+) must have seen it | 90 days Time-Out | Send Mail, send reminder mail 2 times 
 A particular user have seen it | 20 days Time-Out | Send Mail, no reminder mail
 
 In this example Cleanarr will not delete the media as long as the main user hasn't watched it.
 when the main user has watched it Cleanarr will accumulate all movies / series with the time-out reached in one e-mail to the particular user, 
-and to everyone who has requested the movie/series but jet have seen it.
+and to everyone who has started watching- / requested the movie/series, but jet have seen it.
 In the e-mail they will have the option to postpone the removal and reset the time-out period.
 If they don't respond you can setup a reminder mail with a repeat limit or you can setup that without a respond the media will be deleted.
 In the mail they can choose if they still intent to watch the movie/series or if it can be removed.
