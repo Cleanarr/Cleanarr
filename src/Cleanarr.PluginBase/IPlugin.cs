@@ -9,6 +9,7 @@ namespace Cleanarr.PluginBase
         public string Description { get; }
         public string Version { get; }
         public string WebURL { get; }
+        public string IconLocation { get; }
         IPluginHost PluginHost { get; set; }
 
         public T GetConfiguration<T>() where T : PluginConfiguration;

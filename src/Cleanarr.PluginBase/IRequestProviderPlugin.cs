@@ -8,5 +8,9 @@ namespace Cleanarr.PluginBase
     {
         public List<Request> GetRequests();
         public List<Request> GetRequests(DateTime StartDate, DateTime EndDate);
+        public List<Request> GetRequestsByUser(string UserId);
+        public List<Request> GetRequestsByUser(string UserId, DateTime StartDate, DateTime EndDate);
+        public List<Request> GetRequestsByMedia(string MediaId);
+        public List<Request> GetRequestsByMedia(string MediaId, DateTime StartDate, DateTime EndDate);
     }
 }
