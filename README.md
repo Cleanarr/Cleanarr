@@ -1,6 +1,10 @@
 # Cleanarr
 ## Automatic cleaner tool for Plex (and others soon...).
 
+## Project will remain inactive for longer, maybe indefinitely...
+
+## Please have a look at: https://github.com/jorenn92/Maintainerr
+
 ### _Project is in development!_
 <br/>
 
